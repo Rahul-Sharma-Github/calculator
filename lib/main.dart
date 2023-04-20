@@ -31,8 +31,8 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int result = 0;
-  String history = '0';
+  int result = 466;
+  String history = '12 + 15 x 18 - 20';
   Color col = Color(0xff00c6ad);
 
   @override
